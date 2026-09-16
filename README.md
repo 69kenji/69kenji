@@ -26,8 +26,8 @@ I’m a **ECE Student**. I enjoy turning ambitious ideas into simple, reliable e
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Project One](https://github.com/69kenji/NetWatch) | A short, outcome-focused description. | `Python` `Electron` `Node.js` |
-| [Project Two](https://github.com/69kenji/NetWatch-Android) | A short, outcome-focused description. | `Kotlin` |
+| [NetWatch](https://github.com/69kenji/NetWatch) | A self-hosted, Windows media client | `Python` `Electron` `Node.js` |
+| [NetWatch Android](https://github.com/69kenji/NetWatch-Android) | A local Android extension of NetWatch | `Kotlin` |
 
 ## Toolbox
 
